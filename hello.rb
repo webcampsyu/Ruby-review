@@ -1,0 +1,1 @@
+puts 'Hello, World!' #putsは受け取った値を文字列として出力する
